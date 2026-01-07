@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Lists in HTML</title>
+</head>
+<body>
+    <H1>list of courses</H1>
+    <ol>
+        <li>Computer Science (BCS) </li>
+        <li>Computer Application (BCA)</li>
+        <li>Data Analist </li>
+        <li>BBA</li>
+        <li>BSc</li>
+        <ol type ="I"> 
+            <li> Chemistry</li>
+            <li> Physics</li>
+            <li> Botnay</li>
+            <li> Zology</li>
+        </ol>
+    </ol>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Lists in HTML</title>
+</head>
+<body>
+    <H1>list of courses</H1>
+    <ul type="A">
+        <li>Computer Science (BCS) </li>
+        <li>Computer Application (BCA)</li>
+        <li>Data Analist </li>
+        <li>BBA</li>
+        <li>BSc</li>
+        <ul type ="I"> 
+            <li> Chemistry</li>
+            <li> Physics</li>
+            <li> Botnay</li>
+            <li> Zology</li>
+        </ul>
+    </ul>
+</body>
+</html>
